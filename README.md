@@ -6,4 +6,6 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 
 ## Results
 
+!([https://user-images.githubusercontent.com/111193280/190913084-25871883-8099-4b58-b266-290c7f738369.png](https://github.com/jonathan-martin-jhm/UFOs/blob/main/static/images/Website_whole.png))
+
 ## Summary
